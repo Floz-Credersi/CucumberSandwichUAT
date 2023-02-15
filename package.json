@@ -1,0 +1,22 @@
+{
+    "name": "cucumber-sandwich-uat",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "cucumber-js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Floz-Credersi/CucumberSandwichUAT.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Floz-Credersi/CucumberSandwichUAT/issues"
+    },
+    "homepage": "https://github.com/Floz-Credersi/CucumberSandwichUAT#readme",
+    "devDependencies": {
+      "@cucumber/cucumber": "^8.11.1"
+    }
+  }
